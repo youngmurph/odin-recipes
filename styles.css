@@ -1,0 +1,25 @@
+/* styles.css */
+.recipes {
+    background-color: red;
+    font-size: 14px;
+    font-family: "Verdana", "Times New Roman", sans-serif;
+    text-decoration: whitesmoke;
+}
+
+.header {
+    text-align: center;
+    background-color: green;
+    color: white;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.photo {
+    width: 800px;
+    height: auto;
+}
