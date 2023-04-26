@@ -1,0 +1,1 @@
+By the end of this project, I will have created my first website; a collection of recipes. While this may not look pretty, I will later learn how to style it with CSS and will update this readme in due time.
